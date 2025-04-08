@@ -19,7 +19,7 @@ Desarrollar un sistema de gestión para una tienda de ropa en C++, utilizando el
 Por cada venta, se actualizará automáticamente el stock de los productos correspondientes. Los detalles de cada venta incluyen la fecha, el N.º de factura, el nombre del cliente, el nombre del vendedor, los productos adquiridos, el importe unitario y total.
 Se podrán gestionar los productos, agregándolos con sus propiedades, como el nombre, ID, categoría, precio, stock y descripción, o editando alguna o varias de estas propiedades, o eliminando un producto directamente.
 El sistema de salida nos permitirá realizar listados de productos, clientes, vendedores y ventas, permitiéndonos, por ejemplo, aplicar un ordenamiento por precio del producto, por apellido del cliente, por apellido del vendedor, o por fecha o N.º de factura de ventas. Además, podremos consultar lo mencionado anteriormente, filtrando, por ejemplo, por categoría de producto, por DNI, rango de edad o género del cliente o vendedor, y por rango de fecha o N.º de factura de ventas. Por último, el sistema tendrá la funcionalidad de generar informes de facturación diaria, semanal, mensual o anual.
-la interfaz fue realizada con rlutil.
+La interfaz fue realizada con rlutil.
 
 ### Alcance y Funcionalidades Principales
 
