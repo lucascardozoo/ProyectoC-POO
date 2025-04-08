@@ -26,15 +26,17 @@ La interfaz fue realizada con rlutil.
 Gestión de productos:
 - Agregar nuevos productos con sus propiedades.
 - Editar o eliminar productos existentes.
+
 Registro de ventas: 
 - Registro de ventas con la fecha.
 - Actualización automática del inventario tras cada venta.
+
 Sistema de salida:
 - Listado de productos, clientes, vendedores, ventas.
 - Consultas de productos, clientes, vendedores, ventas.
 - Informe de recaudación diario, semanal, mensual o anual de ventas.
 
-ANEXO I: DIAGRAMA DE CLASES
+### ANEXO I: DIAGRAMA DE CLASES
 
 ![image](/assets/diagramaDeClasesTPIntegradorDrawio.png)
 
