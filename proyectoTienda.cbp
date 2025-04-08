@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="proyectoTienda" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/proyectoTienda" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="./" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/proyectoTienda" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="./" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="ArchivoClientes.cpp" />
+		<Unit filename="ArchivoClientes.h" />
+		<Unit filename="ArchivoProductos.cpp" />
+		<Unit filename="ArchivoProductos.h" />
+		<Unit filename="ArchivoVendedores.cpp" />
+		<Unit filename="ArchivoVendedores.h" />
+		<Unit filename="ArchivoVentaCabecera.cpp" />
+		<Unit filename="ArchivoVentaCabecera.h" />
+		<Unit filename="ArchivoVentaDetalle.cpp" />
+		<Unit filename="ArchivoVentaDetalle.h" />
+		<Unit filename="Cliente.cpp" />
+		<Unit filename="Cliente.h" />
+		<Unit filename="Direccion.cpp" />
+		<Unit filename="Direccion.h" />
+		<Unit filename="Fecha.cpp" />
+		<Unit filename="Fecha.h" />
+		<Unit filename="Persona.cpp" />
+		<Unit filename="Persona.h" />
+		<Unit filename="Producto.cpp" />
+		<Unit filename="Producto.h" />
+		<Unit filename="Vendedor.cpp" />
+		<Unit filename="Vendedor.h" />
+		<Unit filename="VentaCabecera.cpp" />
+		<Unit filename="VentaCabecera.h" />
+		<Unit filename="VentaDetalle.cpp" />
+		<Unit filename="VentaDetalle.h" />
+		<Unit filename="constantes.h" />
+		<Unit filename="funcionesClientes.cpp" />
+		<Unit filename="funcionesClientes.h" />
+		<Unit filename="funcionesProductos.cpp" />
+		<Unit filename="funcionesProductos.h" />
+		<Unit filename="funcionesVendedores.cpp" />
+		<Unit filename="funcionesVendedores.h" />
+		<Unit filename="funcionesVentas.cpp" />
+		<Unit filename="funcionesVentas.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="menu.cpp" />
+		<Unit filename="menu.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

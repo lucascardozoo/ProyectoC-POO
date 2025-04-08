@@ -1,0 +1,5314 @@
+# depslib dependency file v1.0
+1728333108 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda\main.cpp
+	<iostream>
+	"Direccion.h"
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1728329851 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda\direccion.h
+	<iostream>
+
+1728329866 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda\direccion.cpp
+	<cstring>
+	"Direccion.h"
+
+1728333041 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1728329999 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda\producto.h
+	<iostream>
+
+1728329978 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda\archivoproductos.h
+
+1728329991 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1728329994 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda\fecha.h
+
+1728329997 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda\producto.cpp
+	<cstring>
+	"Producto.h"
+
+1728329866 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\proyectotienda\direccion.cpp
+	<cstring>
+	"Direccion.h"
+
+1728329851 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\proyectotienda\direccion.h
+	<iostream>
+
+1728396179 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\proyectotienda\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1728329994 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\proyectotienda\fecha.h
+
+1728490701 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\proyectotienda\producto.cpp
+	<cstring>
+	"Producto.h"
+
+1728329999 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\proyectotienda\producto.h
+	<iostream>
+
+1728490876 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\proyectotienda\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1728484975 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\proyectotienda\archivoproductos.h
+
+1728491773 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\proyectotienda\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1728511537 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\proyectotienda-v1.1\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1728562300 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\proyectotienda-v1.1\producto.h
+	<iostream>
+
+1728510730 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\proyectotienda-v1.1\archivoproductos.h
+
+1728329866 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\proyectotienda-v1.1\direccion.cpp
+	<cstring>
+	"Direccion.h"
+
+1728329851 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\proyectotienda-v1.1\direccion.h
+	<iostream>
+
+1728396179 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\proyectotienda-v1.1\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1728329994 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\proyectotienda-v1.1\fecha.h
+
+1728561169 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\proyectotienda-v1.1\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1728506820 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\proyectotienda-v1.1\producto.cpp
+	<cstring>
+	"Producto.h"
+
+1728329866 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\proyectotienda-v1.0\direccion.cpp
+	<cstring>
+	"Direccion.h"
+
+1728329851 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\proyectotienda-v1.0\direccion.h
+	<iostream>
+
+1728396179 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\proyectotienda-v1.0\fecha.cpp
+	<iostream>
+	"Fecha.h"
+
+1728329994 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\proyectotienda-v1.0\fecha.h
+
+1728582682 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\proyectotienda-v1.0\producto.cpp
+	<cstring>
+	"Producto.h"
+
+1728583603 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\proyectotienda-v1.0\producto.h
+	<iostream>
+
+1728585675 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\proyectotienda-v1.0\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1728571591 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\proyectotienda-v1.0\archivoproductos.h
+
+1728584088 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\proyectotienda-v1.0\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1728816735 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.1\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1728583603 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.1\producto.h
+	<iostream>
+
+1728571591 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.1\archivoproductos.h
+
+1728831607 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.1\direccion.cpp
+	<cstring>
+	"Direccion.h"
+
+1728820736 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.1\direccion.h
+	<iostream>
+
+1728838224 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.1\fecha.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+
+1728329994 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.1\fecha.h
+
+1728828821 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.1\producto.cpp
+	<cstring>
+	"Producto.h"
+
+1728838205 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.1\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1728835681 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.1\persona.cpp
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+
+1728835502 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.1\persona.h
+
+1728816735 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.2\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1728583603 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.2\producto.h
+	<iostream>
+
+1728571591 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.2\archivoproductos.h
+
+1728831607 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.2\direccion.cpp
+	<cstring>
+	"Direccion.h"
+
+1728820736 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.2\direccion.h
+	<iostream>
+
+1728838224 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.2\fecha.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+
+1728329994 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.2\fecha.h
+
+1728838446 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.2\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1728852479 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.2\persona.h
+
+1728835681 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.2\persona.cpp
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+
+1728828821 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.2\producto.cpp
+	<cstring>
+	"Producto.h"
+
+1728816735 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.3\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1728583603 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.3\producto.h
+	<iostream>
+
+1728571591 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.3\archivoproductos.h
+
+1728831607 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.3\direccion.cpp
+	<cstring>
+	"Direccion.h"
+
+1728820736 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.3\direccion.h
+	<iostream>
+
+1728838224 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.3\fecha.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+
+1728329994 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.3\fecha.h
+
+1728942032 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.3\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Producto.h"
+	"ArchivoProductos.h"
+
+1728852479 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.3\persona.h
+
+1728835681 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.3\persona.cpp
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+
+1728828821 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.3\producto.cpp
+	<cstring>
+	"Producto.h"
+
+1728941638 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.3\cliente.cpp
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+
+1728939748 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.3\cliente.h
+
+1729039106 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.4\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1728583603 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.4\producto.h
+	<iostream>
+
+1729038182 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.4\archivoproductos.h
+
+1728942084 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.4\cliente.cpp
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+
+1728329994 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.4\fecha.h
+
+1728820736 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.4\direccion.h
+	<iostream>
+
+1728852479 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.4\persona.h
+
+1728939748 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.4\cliente.h
+
+1728831607 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.4\direccion.cpp
+	<cstring>
+	"Direccion.h"
+
+1729041493 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.4\archivoclientes.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1729038169 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.4\archivoclientes.h
+
+1728838224 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.4\fecha.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+
+1728835681 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.4\persona.cpp
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+
+1728828821 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.4\producto.cpp
+	<cstring>
+	"Producto.h"
+
+1729041316 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.4\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoClientes.h"
+
+1729038970 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.4\constantes.h
+
+1729041493 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.4\archivoclientes.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1728329994 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.4\fecha.h
+
+1728820736 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.4\direccion.h
+	<iostream>
+
+1728852479 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.4\persona.h
+
+1728939748 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.4\cliente.h
+
+1729038970 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.4\constantes.h
+
+1729038169 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.4\archivoclientes.h
+
+1728942084 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.4\cliente.cpp
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+
+1728831607 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.4\direccion.cpp
+	<cstring>
+	"Direccion.h"
+
+1728838224 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.4\fecha.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+
+1729170552 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.4\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoClientes.h"
+	"Venta.h"
+
+1728583603 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.4\producto.h
+	<iostream>
+
+1729170144 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.4\archivoproductos.h
+	"Producto.h"
+
+1728835681 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.4\persona.cpp
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+
+1728828821 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.4\producto.cpp
+	<cstring>
+	"Producto.h"
+
+1729170144 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.4\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1729170348 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.4\venta.cpp
+	<cstring>
+	"Fecha.h"
+	"Venta.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1728738314 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.4\venta.h
+	<iostream>
+
+1729041493 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5 no anda\archivoclientes.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1728329994 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5 no anda\fecha.h
+
+1729174835 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5 no anda\direccion.h
+
+1728852479 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5 no anda\persona.h
+
+1728939748 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5 no anda\cliente.h
+
+1729038970 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5 no anda\constantes.h
+
+1729038169 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5 no anda\archivoclientes.h
+
+1729174791 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5 no anda\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1729174791 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5 no anda\archivoproductos.h
+	"Producto.h"
+
+1729174835 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5 no anda\producto.h
+
+1729174896 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5 no anda\cliente.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+
+1729174916 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5 no anda\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+
+1728838224 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5 no anda\fecha.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+
+1729174938 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5 no anda\persona.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+
+1729174963 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5 no anda\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+
+1729174474 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5 no anda\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoClientes.h"
+	"Venta.h"
+
+1729174791 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5 no anda\venta.h
+
+1729174946 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5 no anda\venta.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Venta.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1729041493 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5\archivoclientes.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1728329994 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5\fecha.h
+
+1729174835 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5\direccion.h
+
+1728852479 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5\persona.h
+
+1728939748 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5\cliente.h
+
+1729038970 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5\constantes.h
+
+1729038169 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5\archivoclientes.h
+
+1729174791 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1729174791 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5\archivoproductos.h
+	"Producto.h"
+
+1729174835 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5\producto.h
+
+1729174896 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5\cliente.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+
+1729174916 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+
+1728838224 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5\fecha.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+
+1729176332 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoClientes.h"
+	"Venta.h"
+
+1729624070 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5\venta.h
+
+1729174938 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5\persona.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+
+1729174963 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.5\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+
+1729645970 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.7\archivoclientes.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1728329996 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.7\fecha.h
+
+1729174836 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.7\direccion.h
+
+1728852480 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.7\persona.h
+
+1728939750 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.7\cliente.h
+
+1729038972 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.7\constantes.h
+
+1729038170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.7\archivoclientes.h
+
+1729650980 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.7\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1729174792 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.7\archivoproductos.h
+	"Producto.h"
+
+1729174836 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.7\producto.h
+
+1729645099 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.7\archivovendedores.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1729321118 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.7\vendedor.h
+
+1729409842 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.7\archivovendedores.h
+
+1729651745 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.7\archivoventas.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Venta.h"
+	"constantes.h"
+	"ArchivoVentas.h"
+
+1729639440 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.7\venta.h
+
+1729639473 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.7\archivoventas.h
+
+1729174898 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.7\cliente.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+
+1729174918 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.7\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+
+1728838226 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.7\fecha.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+
+1729651677 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.7\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"Venta.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentas.h"
+
+1729174940 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.7\persona.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+
+1729174964 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.7\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+
+1729416484 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.7\vendedor.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+
+1729649886 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.7\venta.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"Producto.h"
+	"Venta.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoProductos.h"
+	"ArchivoVentas.h"
+
+1729645970 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.8\archivoclientes.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1728329996 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.8\fecha.h
+
+1729174836 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.8\direccion.h
+
+1728852480 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.8\persona.h
+
+1728939750 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.8\cliente.h
+
+1729038972 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.8\constantes.h
+
+1729038170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.8\archivoclientes.h
+
+1729650980 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.8\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1729174792 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.8\archivoproductos.h
+	"Producto.h"
+
+1729174836 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.8\producto.h
+
+1729645099 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.8\archivovendedores.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1729321118 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.8\vendedor.h
+
+1729409842 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.8\archivovendedores.h
+
+1729711487 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.8\archivoventas.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Venta.h"
+	"constantes.h"
+	"ArchivoVentas.h"
+
+1729710029 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.8\venta.h
+
+1729639473 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.8\archivoventas.h
+
+1729174898 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.8\cliente.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+
+1729174918 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.8\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+
+1728838226 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.8\fecha.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+
+1729710875 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.8\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"Venta.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentas.h"
+
+1729174940 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.8\persona.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+
+1729174964 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.8\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+
+1729416484 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.8\vendedor.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+
+1729709896 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.8\venta.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"Producto.h"
+	"Venta.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoProductos.h"
+	"ArchivoVentas.h"
+
+1729711736 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.10\archivoclientes.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1728329996 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.10\fecha.h
+
+1729174836 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.10\direccion.h
+
+1728852480 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.10\persona.h
+
+1728939750 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.10\cliente.h
+
+1729038972 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.10\constantes.h
+
+1729038170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.10\archivoclientes.h
+
+1729711736 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.10\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1729174792 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.10\archivoproductos.h
+	"Producto.h"
+
+1729174836 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.10\producto.h
+
+1729711736 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.10\archivovendedores.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1729321118 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.10\vendedor.h
+
+1729409842 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.10\archivovendedores.h
+
+1729771918 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.10\archivoventas.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Venta.h"
+	"constantes.h"
+	"ArchivoVentas.h"
+
+1729771256 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.10\venta.h
+
+1729639473 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.10\archivoventas.h
+
+1729174898 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.10\cliente.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+
+1729174918 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.10\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+
+1728838226 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.10\fecha.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+
+1729781080 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.10\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"Venta.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentas.h"
+
+1729174940 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.10\persona.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+
+1729174964 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.10\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+
+1729416484 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.10\vendedor.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+
+1729772150 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.10\venta.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"Producto.h"
+	"Venta.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoProductos.h"
+	"ArchivoVentas.h"
+
+1729841391 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.11\archivoclientes.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1728329996 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.11\fecha.h
+
+1729174836 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.11\direccion.h
+
+1728852480 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.11\persona.h
+
+1729819694 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.11\cliente.h
+
+1729038972 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.11\constantes.h
+
+1729038170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.11\archivoclientes.h
+
+1729818548 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.11\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1729174792 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.11\archivoproductos.h
+	"Producto.h"
+
+1729819694 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.11\producto.h
+
+1729817507 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.11\archivoventas.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Venta.h"
+	"constantes.h"
+	"ArchivoVentas.h"
+
+1729771256 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.11\venta.h
+
+1729639473 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.11\archivoventas.h
+
+1729819694 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.11\cliente.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1729839150 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.11\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+
+1728838226 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.11\fecha.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+
+1729843383 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.11\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"Venta.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentas.h"
+
+1729819198 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.11\vendedor.h
+
+1729409842 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.11\archivovendedores.h
+
+1729174940 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.11\persona.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+
+1729837135 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.11\producto.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1729838248 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.11\vendedor.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1729772150 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.11\venta.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"Producto.h"
+	"Venta.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoProductos.h"
+	"ArchivoVentas.h"
+
+1729838795 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.11\archivovendedores.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1729841391 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\archivoclientes.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1728329996 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\fecha.h
+
+1729174836 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\direccion.h
+
+1728852480 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\persona.h
+
+1729819694 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\cliente.h
+
+1729038972 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\constantes.h
+
+1729038170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\archivoclientes.h
+
+1730243876 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1730243876 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\archivoproductos.h
+
+1730155170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\producto.h
+
+1729838795 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\archivovendedores.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1729819198 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\vendedor.h
+
+1729409842 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\archivovendedores.h
+
+1730232617 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\archivoventacabecera.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+
+1730151436 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\ventacabecera.h
+
+1730242768 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\archivoventacabecera.h
+
+1730232138 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\archivoventadetalle.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+
+1730155130 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\ventadetalle.h
+
+1730136861 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\archivoventadetalle.h
+
+1729817507 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\archivoventas.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Venta.h"
+	"constantes.h"
+	"ArchivoVentas.h"
+
+1729771256 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\venta.h
+
+1729639473 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\archivoventas.h
+
+1729819694 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\cliente.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1730243635 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+
+1730243618 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\fecha.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+
+1730233522 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\main.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"VentaDetalle.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+
+1730243599 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\persona.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+
+1730245168 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\producto.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1730245064 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\vendedor.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1729772150 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\venta.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"Producto.h"
+	"Venta.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoProductos.h"
+	"ArchivoVentas.h"
+
+1730160847 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\ventacabecera.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaCabecera.h"
+
+1730244789 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.12\ventadetalle.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+
+1729841391 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\archivoclientes.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1728329996 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\fecha.h
+
+1729174836 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\direccion.h
+
+1728852480 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\persona.h
+
+1729819694 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\cliente.h
+
+1729038972 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\constantes.h
+
+1729038170 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\archivoclientes.h
+
+1730243876 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1730155170 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\producto.h
+
+1730243876 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\archivoproductos.h
+
+1729838795 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\archivovendedores.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1729819198 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\vendedor.h
+
+1729409842 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\archivovendedores.h
+
+1730232617 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\archivoventacabecera.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+
+1730151436 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\ventacabecera.h
+
+1730242768 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\archivoventacabecera.h
+
+1730232138 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\archivoventadetalle.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+
+1730155130 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\ventadetalle.h
+
+1730136861 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\archivoventadetalle.h
+
+1729819694 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\cliente.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1730243635 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+
+1730243618 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\fecha.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+
+1730288915 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\main.cpp
+	<iostream>
+	<iomanip>
+	"menu.h"
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"VentaDetalle.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+
+1730288679 c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\menu.h
+
+1730243599 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\persona.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+
+1730245168 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\producto.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1730245064 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\vendedor.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1730160847 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\ventacabecera.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaCabecera.h"
+
+1730244789 source:c:\users\usuario\desktop\utn\programacion 2\tienda de ropa\proyectotienda-v1.13\proyectotienda-v1.13\ventadetalle.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+
+1729841391 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\archivoclientes.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1728329996 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\fecha.h
+
+1729174836 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\direccion.h
+
+1728852480 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\persona.h
+
+1729819694 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\cliente.h
+
+1729038972 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\constantes.h
+
+1729038170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\archivoclientes.h
+
+1730243876 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1730155170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\producto.h
+
+1730243876 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\archivoproductos.h
+
+1729838795 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\archivovendedores.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1729819198 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\vendedor.h
+
+1729409842 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\archivovendedores.h
+
+1730232617 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\archivoventacabecera.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+
+1730151436 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\ventacabecera.h
+
+1730242768 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\archivoventacabecera.h
+
+1730232138 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\archivoventadetalle.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+
+1730155130 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\ventadetalle.h
+
+1730136861 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\archivoventadetalle.h
+
+1729819694 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\cliente.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1730243635 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+
+1730243618 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\fecha.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+
+1730296956 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\main.cpp
+	<iostream>
+	<iomanip>
+	"menu.h"
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"VentaDetalle.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+
+1730305245 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\menu.h
+
+1730243599 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\persona.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+
+1730245168 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\producto.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1730245064 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\vendedor.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1730160847 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\ventacabecera.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaCabecera.h"
+
+1730244789 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\ventadetalle.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+
+1730304935 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.14\menu.cpp
+	<iostream>
+	"menu.h"
+
+1730324006 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\archivoclientes.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1728329996 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\fecha.h
+
+1729174836 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\direccion.h
+
+1728852480 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\persona.h
+
+1729819694 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\cliente.h
+
+1729038972 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\constantes.h
+
+1729038170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\archivoclientes.h
+
+1730324629 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1730155170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\producto.h
+
+1730243876 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\archivoproductos.h
+
+1730324112 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\archivovendedores.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1729819198 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\vendedor.h
+
+1729409842 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\archivovendedores.h
+
+1730385341 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\archivoventacabecera.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+
+1730151436 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\ventacabecera.h
+
+1730242768 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\archivoventacabecera.h
+
+1730384442 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\archivoventadetalle.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+
+1730155130 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\ventadetalle.h
+
+1730136861 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\archivoventadetalle.h
+
+1729819694 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\cliente.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1730243635 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+
+1730243618 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\fecha.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+
+1730386557 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\main.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"VentaDetalle.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+	"menu.h"
+
+1730384041 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\menu.h
+
+1730324287 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\persona.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+
+1730324362 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\producto.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1730324201 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\vendedor.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1730385574 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\ventacabecera.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaCabecera.h"
+
+1730324682 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\ventadetalle.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+
+1730386511 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\funcionesventas.cpp
+	<iostream>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+	"funcionesVentas.h"
+
+1730386511 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\funcionesventas.h
+
+1730386511 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\menu.cpp
+	<iostream>
+	"funcionesVentas.h"
+	"menu.h"
+
+1730381439 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\funcionesclientes.cpp
+	"funcionesClientes.h"
+
+1730381452 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\funcionesclientes.h
+
+1730381492 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\funcionesvendedores.cpp
+	"funcionesVendedores.h"
+
+1730381511 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\funcionesvendedores.h
+
+1730381556 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\funcionesproductos.cpp
+	"funcionesProductos.h"
+
+1730381556 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\funcionesproductos.h
+
+1730381703 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\funcioneslistados.cpp
+	"funcionesListados.h"
+
+1730381703 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\funcioneslistados.h
+
+1730382741 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\funcionconsultas.cpp
+	"funcionConsultas.h"
+
+1730382741 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.15\funcionconsultas.h
+
+1730783377 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\archivoclientes.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1730863320 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\fecha.h
+
+1729174836 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\direccion.h
+
+1730680464 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\persona.h
+
+1729819694 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\cliente.h
+
+1729038972 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\constantes.h
+
+1729038170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\archivoclientes.h
+
+1730840401 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1730155170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\producto.h
+
+1730243876 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\archivoproductos.h
+
+1730771553 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\archivovendedores.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1730679154 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\vendedor.h
+
+1729409842 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\archivovendedores.h
+
+1730782546 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\archivoventacabecera.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+
+1730151436 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\ventacabecera.h
+
+1730404990 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\archivoventacabecera.h
+
+1730782546 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\archivoventadetalle.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+
+1730155130 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\ventadetalle.h
+
+1730577402 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\archivoventadetalle.h
+
+1730679525 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\cliente.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1730740095 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+
+1730863320 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\fecha.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+
+1730496101 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\funcionconsultas.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+	"funcionConsultas.h"
+
+1730495279 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\funcionconsultas.h
+
+1730772916 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\funcionesclientes.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"ArchivoClientes.h"
+	"funcionesClientes.h"
+
+1730772705 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\funcionesclientes.h
+
+1730840325 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\funcioneslistados.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVendedores.h"
+	"ArchivoClientes.h"
+	"ArchivoProductos.h"
+	"funcionesListados.h"
+
+1730838795 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\funcioneslistados.h
+
+1730837635 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\funcionesproductos.cpp
+	<iostream>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"funcionesProductos.h"
+
+1730837635 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\funcionesproductos.h
+
+1730679154 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\funcionesvendedores.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+	"funcionesVendedores.h"
+
+1730584431 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\funcionesvendedores.h
+
+1730577402 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\funcionesventas.cpp
+	<iostream>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+	"funcionesVentas.h"
+
+1730577402 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\funcionesventas.h
+
+1730684956 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\main.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"VentaDetalle.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+	"menu.h"
+
+1730384041 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\menu.h
+
+1730684735 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\persona.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+	"ArchivoClientes.h"
+
+1730838367 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\producto.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1730869688 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\menu.cpp
+	<iostream>
+	"funcionesVentas.h"
+	"funcionesClientes.h"
+	"funcionesVendedores.h"
+	"funcionesProductos.h"
+	"funcionesListados.h"
+	"funcionesConsultas.h"
+	"funcionesInformes.h"
+	"menu.h"
+
+1730740042 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\vendedor.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1730404360 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\ventacabecera.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaCabecera.h"
+
+1730576302 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\ventadetalle.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+
+1730840836 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\funcionesconsultas.h
+
+1730841961 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\funcionesconsultas.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVendedores.h"
+	"ArchivoProductos.h"
+	"funcionesConsultas.h"
+
+1730869688 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\funcionesinformes.h
+
+1730871498 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.16\funcionesinformes.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+	"funcionesInformes.h"
+
+1730924124 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\archivoclientes.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1730863320 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\fecha.h
+
+1729174836 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\direccion.h
+
+1730680464 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\persona.h
+
+1729819694 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\cliente.h
+
+1729038972 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\constantes.h
+
+1729038170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\archivoclientes.h
+
+1730840401 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1730155170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\producto.h
+
+1730243876 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\archivoproductos.h
+
+1730924466 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\archivovendedores.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1730679154 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\vendedor.h
+
+1729409842 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\archivovendedores.h
+
+1730782546 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\archivoventacabecera.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+
+1730151436 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\ventacabecera.h
+
+1730404990 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\archivoventacabecera.h
+
+1730782546 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\archivoventadetalle.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+
+1730155130 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\ventadetalle.h
+
+1730577402 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\archivoventadetalle.h
+
+1730679525 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\cliente.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1730740095 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+
+1730863320 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\fecha.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+
+1730772916 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\funcionesclientes.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"ArchivoClientes.h"
+	"funcionesClientes.h"
+
+1730772705 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\funcionesclientes.h
+
+1730923826 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\funcionesconsultas.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoProductos.h"
+	"funcionesConsultas.h"
+
+1730922213 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\funcionesconsultas.h
+
+1730871498 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\funcionesinformes.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+	"funcionesInformes.h"
+
+1730869688 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\funcionesinformes.h
+
+1730837635 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\funcionesproductos.cpp
+	<iostream>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"funcionesProductos.h"
+
+1730837635 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\funcionesproductos.h
+
+1730679154 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\funcionesvendedores.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+	"funcionesVendedores.h"
+
+1730584431 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\funcionesvendedores.h
+
+1730577402 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\funcionesventas.cpp
+	<iostream>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+	"funcionesVentas.h"
+
+1730577402 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\funcionesventas.h
+
+1730684956 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\main.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"VentaDetalle.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+	"menu.h"
+
+1730384041 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\menu.h
+
+1730923432 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\menu.cpp
+	<iostream>
+	"funcionesVentas.h"
+	"funcionesClientes.h"
+	"funcionesVendedores.h"
+	"funcionesProductos.h"
+	"funcionesListados.h"
+	"funcionesConsultas.h"
+	"funcionesInformes.h"
+	"menu.h"
+
+1730838795 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\funcioneslistados.h
+
+1730684735 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\persona.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+	"ArchivoClientes.h"
+
+1730838367 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\producto.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1730740042 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\vendedor.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1730404360 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\ventacabecera.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaCabecera.h"
+
+1730576302 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\ventadetalle.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+
+1730921778 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-v1.21\funcioneslistados.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVendedores.h"
+	"ArchivoClientes.h"
+	"ArchivoProductos.h"
+	"funcionesListados.h"
+
+1730924124 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\archivoclientes.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1730863320 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\fecha.h
+
+1729174836 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\direccion.h
+
+1730680464 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\persona.h
+
+1729819694 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\cliente.h
+
+1729038972 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\constantes.h
+
+1729038170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\archivoclientes.h
+
+1730840401 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1730155170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\producto.h
+
+1730243876 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\archivoproductos.h
+
+1730924466 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\archivovendedores.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1730679154 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\vendedor.h
+
+1729409842 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\archivovendedores.h
+
+1730782546 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\archivoventacabecera.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+
+1730151436 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\ventacabecera.h
+
+1730404990 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\archivoventacabecera.h
+
+1730782546 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\archivoventadetalle.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+
+1730155130 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\ventadetalle.h
+
+1730577402 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\archivoventadetalle.h
+
+1730679525 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\cliente.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1730740095 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+
+1730863320 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\fecha.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+
+1730772916 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\funcionesclientes.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"ArchivoClientes.h"
+	"funcionesClientes.h"
+
+1730772705 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\funcionesclientes.h
+
+1730923826 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\funcionesconsultas.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoProductos.h"
+	"funcionesConsultas.h"
+
+1730922213 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\funcionesconsultas.h
+
+1730871498 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\funcionesinformes.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+	"funcionesInformes.h"
+
+1730869688 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\funcionesinformes.h
+
+1730921778 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\funcioneslistados.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVendedores.h"
+	"ArchivoClientes.h"
+	"ArchivoProductos.h"
+	"funcionesListados.h"
+
+1730838795 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\funcioneslistados.h
+
+1730837635 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\funcionesproductos.cpp
+	<iostream>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"funcionesProductos.h"
+
+1730837635 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\funcionesproductos.h
+
+1730679154 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\funcionesvendedores.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+	"funcionesVendedores.h"
+
+1730584431 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\funcionesvendedores.h
+
+1730577402 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\funcionesventas.cpp
+	<iostream>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+	"funcionesVentas.h"
+
+1730577402 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\funcionesventas.h
+
+1730684735 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\persona.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+	"ArchivoClientes.h"
+
+1730838367 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\producto.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1730937951 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\main.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"VentaDetalle.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+	"menu.h"
+
+1730384041 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\menu.h
+
+1730740042 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\vendedor.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1730404360 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\ventacabecera.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaCabecera.h"
+
+1730576302 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\ventadetalle.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+
+1730938173 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\menu.cpp
+	<iostream>
+	"rlutil.h"
+	"funcionesVentas.h"
+	"funcionesClientes.h"
+	"funcionesVendedores.h"
+	"funcionesProductos.h"
+	"funcionesListados.h"
+	"funcionesConsultas.h"
+	"funcionesInformes.h"
+	"menu.h"
+
+1730937638 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectotienda-finallogica\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1733883851 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\archivoclientes.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+	"ArchivoClientes.h"
+
+1730863320 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\fecha.h
+
+1729174836 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\direccion.h
+
+1730680464 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\persona.h
+
+1729819694 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\cliente.h
+
+1733864130 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\constantes.h
+
+1729038170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\archivoclientes.h
+
+1733883810 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1730155170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\producto.h
+
+1730243876 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\archivoproductos.h
+
+1733883888 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\archivovendedores.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+
+1730679154 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\vendedor.h
+
+1729409842 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\archivovendedores.h
+
+1733883581 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\archivoventacabecera.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<limits>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+
+1730151436 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\ventacabecera.h
+
+1731004006 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\archivoventacabecera.h
+
+1733883142 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\archivoventadetalle.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+
+1730155130 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\ventadetalle.h
+
+1731004012 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\archivoventadetalle.h
+
+1733022717 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\cliente.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1733230072 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\direccion.cpp
+	<iostream>
+	<cstring>
+	<limits>
+	"Direccion.h"
+
+1733213936 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\fecha.cpp
+	<iostream>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+
+1733853201 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\funcionesclientes.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"funcionesClientes.h"
+
+1732045445 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\funcionesclientes.h
+
+1730923826 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\funcionesconsultas.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoProductos.h"
+	"funcionesConsultas.h"
+
+1730922213 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\funcionesconsultas.h
+
+1730871498 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\funcionesinformes.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+	"funcionesInformes.h"
+
+1730869688 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\funcionesinformes.h
+
+1730921778 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\funcioneslistados.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVendedores.h"
+	"ArchivoClientes.h"
+	"ArchivoProductos.h"
+	"funcionesListados.h"
+
+1730838795 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\funcioneslistados.h
+
+1733290374 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\funcionesproductos.cpp
+	<iostream>
+	<iomanip>
+	<limits>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"funcionesProductos.h"
+
+1732766585 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\funcionesproductos.h
+
+1733853302 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\funcionesvendedores.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+	"funcionesVendedores.h"
+
+1732045604 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\funcionesvendedores.h
+
+1733892060 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\funcionesventas.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	<limits>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+	"funcionesVentas.h"
+
+1732766588 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\funcionesventas.h
+
+1730987468 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\main.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"VentaDetalle.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+	"menu.h"
+
+1733872503 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\menu.h
+
+1733895842 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\menu.cpp
+	<iostream>
+	<limits>
+	"rlutil.h"
+	"funcionesVentas.h"
+	"funcionesClientes.h"
+	"funcionesVendedores.h"
+	"funcionesProductos.h"
+	"constantes.h"
+	"menu.h"
+
+1730937638 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1733852898 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\persona.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+	"ArchivoClientes.h"
+
+1733289234 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\producto.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1733301416 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\vendedor.cpp
+	<iostream>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1733122941 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\ventacabecera.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<ctime>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaCabecera.h"
+
+1733852898 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\proyectoinventariotiendaropa\ventadetalle.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+
+1730924124 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\archivoclientes.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1730863320 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\fecha.h
+
+1729174836 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\direccion.h
+
+1730680464 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\persona.h
+
+1729819694 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\cliente.h
+
+1729038972 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\constantes.h
+
+1729038170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\archivoclientes.h
+
+1730840401 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1730155170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\producto.h
+
+1730243876 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\archivoproductos.h
+
+1730924466 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\archivovendedores.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1730679154 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\vendedor.h
+
+1729409842 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\archivovendedores.h
+
+1730782546 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\archivoventacabecera.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+
+1730151436 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\ventacabecera.h
+
+1730404990 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\archivoventacabecera.h
+
+1730981442 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\archivoventadetalle.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+
+1730155130 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\ventadetalle.h
+
+1730577402 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\archivoventadetalle.h
+
+1730679525 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\cliente.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1730740095 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+
+1730863320 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\fecha.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+
+1730772916 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\funcionesclientes.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"ArchivoClientes.h"
+	"funcionesClientes.h"
+
+1730772705 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\funcionesclientes.h
+
+1730923826 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\funcionesconsultas.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoProductos.h"
+	"funcionesConsultas.h"
+
+1730922213 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\funcionesconsultas.h
+
+1730871498 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\funcionesinformes.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+	"funcionesInformes.h"
+
+1730869688 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\funcionesinformes.h
+
+1730921778 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\funcioneslistados.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVendedores.h"
+	"ArchivoClientes.h"
+	"ArchivoProductos.h"
+	"funcionesListados.h"
+
+1730838795 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\funcioneslistados.h
+
+1730837635 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\funcionesproductos.cpp
+	<iostream>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"funcionesProductos.h"
+
+1730837635 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\funcionesproductos.h
+
+1730679154 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\funcionesvendedores.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+	"funcionesVendedores.h"
+
+1730584431 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\funcionesvendedores.h
+
+1730986331 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\funcionesventas.cpp
+	<iostream>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+	"funcionesVentas.h"
+
+1730577402 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\funcionesventas.h
+
+1730937951 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\main.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"VentaDetalle.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+	"menu.h"
+
+1730384041 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\menu.h
+
+1730938173 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\menu.cpp
+	<iostream>
+	"rlutil.h"
+	"funcionesVentas.h"
+	"funcionesClientes.h"
+	"funcionesVendedores.h"
+	"funcionesProductos.h"
+	"funcionesListados.h"
+	"funcionesConsultas.h"
+	"funcionesInformes.h"
+	"menu.h"
+
+1730937638 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1730684735 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\persona.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+	"ArchivoClientes.h"
+
+1730838367 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\producto.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1730740042 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\vendedor.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1730948390 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\ventacabecera.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaCabecera.h"
+
+1730986331 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\proyectoinventariotiendaropa-v23\ventadetalle.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+
+1732046941 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\archivoclientes.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1730863320 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\fecha.h
+
+1729174836 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\direccion.h
+
+1730680464 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\persona.h
+
+1729819694 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\cliente.h
+
+1729038972 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\constantes.h
+
+1729038170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\archivoclientes.h
+
+1732047316 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1730155170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\producto.h
+
+1730243876 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\archivoproductos.h
+
+1732047026 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\archivovendedores.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1730679154 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\vendedor.h
+
+1729409842 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\archivovendedores.h
+
+1732756988 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\archivoventacabecera.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+
+1730151436 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\ventacabecera.h
+
+1731004006 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\archivoventacabecera.h
+
+1732212553 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\archivoventadetalle.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<iomanip>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+
+1730155130 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\ventadetalle.h
+
+1731004012 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\archivoventadetalle.h
+
+1730987352 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\cliente.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1730740095 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+
+1732756536 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\fecha.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+
+1732766466 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\funcionesclientes.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"funcionesClientes.h"
+
+1732045445 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\funcionesclientes.h
+
+1732044195 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\funcionesconsultas.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoProductos.h"
+	"funcionesConsultas.h"
+
+1732766127 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\funcionesconsultas.h
+
+1730871498 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\funcionesinformes.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+	"funcionesInformes.h"
+
+1730869688 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\funcionesinformes.h
+
+1732044057 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\funcioneslistados.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVendedores.h"
+	"ArchivoClientes.h"
+	"ArchivoProductos.h"
+	"funcionesListados.h"
+
+1732765866 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\funcioneslistados.h
+
+1732766495 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\funcionesproductos.cpp
+	<iostream>
+	<iomanip>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"funcionesProductos.h"
+
+1732766585 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\funcionesproductos.h
+
+1732766482 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\funcionesvendedores.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+	"funcionesVendedores.h"
+
+1732045604 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\funcionesvendedores.h
+
+1730987468 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\main.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"VentaDetalle.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+	"menu.h"
+
+1732045277 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\menu.h
+
+1730684735 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\persona.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+	"ArchivoClientes.h"
+
+1730987407 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\producto.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1730987378 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\vendedor.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1732756490 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\ventacabecera.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<ctime>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaCabecera.h"
+
+1732143018 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\ventadetalle.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+
+1732768017 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\funcionesventas.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+	"funcionesVentas.h"
+
+1732766588 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\funcionesventas.h
+
+1732767576 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\menu.cpp
+	<iostream>
+	"rlutil.h"
+	"funcionesVentas.h"
+	"funcionesClientes.h"
+	"funcionesVendedores.h"
+	"funcionesProductos.h"
+	"menu.h"
+
+1730937638 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v24\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1732046941 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\archivoclientes.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1730863320 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\fecha.h
+
+1729174836 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\direccion.h
+
+1730680464 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\persona.h
+
+1729819694 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\cliente.h
+
+1729038972 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\constantes.h
+
+1729038170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\archivoclientes.h
+
+1732047026 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\archivovendedores.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1730679154 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\vendedor.h
+
+1729409842 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\archivovendedores.h
+
+1732756988 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\archivoventacabecera.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+
+1730151436 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\ventacabecera.h
+
+1731004006 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\archivoventacabecera.h
+
+1732787011 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\archivoventadetalle.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<iomanip>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+
+1730155170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\producto.h
+
+1730155130 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\ventadetalle.h
+
+1730243876 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\archivoproductos.h
+
+1731004012 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\archivoventadetalle.h
+
+1730987352 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\cliente.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1730740095 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+
+1732756536 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\fecha.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+
+1732766466 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\funcionesclientes.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"funcionesClientes.h"
+
+1732045445 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\funcionesclientes.h
+
+1732766495 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\funcionesproductos.cpp
+	<iostream>
+	<iomanip>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"funcionesProductos.h"
+
+1732766585 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\funcionesproductos.h
+
+1732766482 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\funcionesvendedores.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+	"funcionesVendedores.h"
+
+1732045604 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\funcionesvendedores.h
+
+1732768017 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\funcionesventas.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+	"funcionesVentas.h"
+
+1732766588 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\funcionesventas.h
+
+1730987468 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\main.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"VentaDetalle.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+	"menu.h"
+
+1732045277 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\menu.h
+
+1732767576 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\menu.cpp
+	<iostream>
+	"rlutil.h"
+	"funcionesVentas.h"
+	"funcionesClientes.h"
+	"funcionesVendedores.h"
+	"funcionesProductos.h"
+	"menu.h"
+
+1730937638 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1730684735 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\persona.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+	"ArchivoClientes.h"
+
+1730987407 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\producto.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1730987378 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\vendedor.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1732756490 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\ventacabecera.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<ctime>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaCabecera.h"
+
+1732782329 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1732782745 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v25\ventadetalle.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+
+1732046941 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\archivoclientes.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1730863320 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\fecha.h
+
+1729174836 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\direccion.h
+
+1730680464 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\persona.h
+
+1729819694 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\cliente.h
+
+1729038972 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\constantes.h
+
+1729038170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\archivoclientes.h
+
+1732782329 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1730155170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\producto.h
+
+1730243876 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\archivoproductos.h
+
+1732047026 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\archivovendedores.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1730679154 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\vendedor.h
+
+1729409842 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\archivovendedores.h
+
+1732756988 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\archivoventacabecera.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoVentaCabecera.h"
+
+1730151436 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\ventacabecera.h
+
+1731004006 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\archivoventacabecera.h
+
+1732931396 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\archivoventadetalle.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<iomanip>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+
+1730155130 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\ventadetalle.h
+
+1731004012 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\archivoventadetalle.h
+
+1730987352 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\cliente.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1730740095 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\direccion.cpp
+	<iostream>
+	<cstring>
+	"Direccion.h"
+
+1732938011 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\fecha.cpp
+	<iostream>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+
+1732766466 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\funcionesclientes.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"funcionesClientes.h"
+
+1732045445 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\funcionesclientes.h
+
+1732766495 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\funcionesproductos.cpp
+	<iostream>
+	<iomanip>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"funcionesProductos.h"
+
+1732766585 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\funcionesproductos.h
+
+1732766482 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\funcionesvendedores.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+	"funcionesVendedores.h"
+
+1732045604 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\funcionesvendedores.h
+
+1732768017 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\funcionesventas.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	"Fecha.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+	"funcionesVentas.h"
+
+1732766588 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\funcionesventas.h
+
+1730987468 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\main.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"VentaDetalle.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+	"menu.h"
+
+1732045277 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\menu.h
+
+1732767576 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\menu.cpp
+	<iostream>
+	"rlutil.h"
+	"funcionesVentas.h"
+	"funcionesClientes.h"
+	"funcionesVendedores.h"
+	"funcionesProductos.h"
+	"menu.h"
+
+1730937638 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1730684735 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\persona.cpp
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+	"ArchivoClientes.h"
+
+1730987407 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\producto.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1730987378 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\vendedor.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1732937835 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\ventacabecera.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<ctime>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaCabecera.h"
+
+1732937370 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v26\ventadetalle.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+
+1733029464 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\archivoclientes.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1730863320 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\fecha.h
+
+1729174836 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\direccion.h
+
+1730680464 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\persona.h
+
+1729819694 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\cliente.h
+
+1729038972 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\constantes.h
+
+1729038170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\archivoclientes.h
+
+1732782329 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1730155170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\producto.h
+
+1730243876 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\archivoproductos.h
+
+1732047026 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\archivovendedores.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1730679154 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\vendedor.h
+
+1729409842 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\archivovendedores.h
+
+1733129596 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\archivoventacabecera.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<limits>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+
+1730151436 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\ventacabecera.h
+
+1731004006 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\archivoventacabecera.h
+
+1733130762 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\archivoventadetalle.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+
+1730155130 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\ventadetalle.h
+
+1731004012 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\archivoventadetalle.h
+
+1733022717 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\cliente.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1733027890 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\direccion.cpp
+	<iostream>
+	<cstring>
+	<limits>
+	"Direccion.h"
+
+1733028146 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\fecha.cpp
+	<iostream>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+
+1733029248 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\funcionesclientes.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"funcionesClientes.h"
+
+1732045445 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\funcionesclientes.h
+
+1732766495 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\funcionesproductos.cpp
+	<iostream>
+	<iomanip>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"funcionesProductos.h"
+
+1732766585 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\funcionesproductos.h
+
+1732766482 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\funcionesvendedores.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+	"funcionesVendedores.h"
+
+1732045604 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\funcionesvendedores.h
+
+1733132401 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\funcionesventas.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	<limits>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+	"funcionesVentas.h"
+
+1732766588 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\funcionesventas.h
+
+1730987468 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\main.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"VentaDetalle.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+	"menu.h"
+
+1732045277 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\menu.h
+
+1733133046 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\menu.cpp
+	<iostream>
+	<limits>
+	"rlutil.h"
+	"funcionesVentas.h"
+	"funcionesClientes.h"
+	"funcionesVendedores.h"
+	"funcionesProductos.h"
+	"menu.h"
+
+1730937638 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1733028006 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\persona.cpp
+	<iostream>
+	<cstring>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+	"ArchivoClientes.h"
+
+1730987407 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\producto.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1730987378 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\vendedor.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1733122941 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\ventacabecera.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<ctime>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaCabecera.h"
+
+1733123202 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v28\ventadetalle.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+
+1733230557 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\archivoclientes.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+	"ArchivoClientes.h"
+
+1730863320 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\fecha.h
+
+1729174836 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\direccion.h
+
+1730680464 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\persona.h
+
+1729819694 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\cliente.h
+
+1729038972 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\constantes.h
+
+1729038170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\archivoclientes.h
+
+1733290415 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1730155170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\producto.h
+
+1730243876 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\archivoproductos.h
+
+1732047026 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\archivovendedores.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1730679154 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\vendedor.h
+
+1729409842 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\archivovendedores.h
+
+1733216878 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\archivoventacabecera.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<limits>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+
+1730151436 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\ventacabecera.h
+
+1730155130 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\ventadetalle.h
+
+1731004012 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\archivoventadetalle.h
+
+1731004006 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\archivoventacabecera.h
+
+1733130762 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\archivoventadetalle.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+
+1733022717 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\cliente.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1733230072 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\direccion.cpp
+	<iostream>
+	<cstring>
+	<limits>
+	"Direccion.h"
+
+1733213936 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\fecha.cpp
+	<iostream>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+
+1733232548 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\funcionesclientes.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"funcionesClientes.h"
+
+1732045445 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\funcionesclientes.h
+
+1733290374 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\funcionesproductos.cpp
+	<iostream>
+	<iomanip>
+	<limits>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"funcionesProductos.h"
+
+1732766585 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\funcionesproductos.h
+
+1732766482 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\funcionesvendedores.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+	"funcionesVendedores.h"
+
+1732045604 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\funcionesvendedores.h
+
+1733132401 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\funcionesventas.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	<limits>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+	"funcionesVentas.h"
+
+1732766588 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\funcionesventas.h
+
+1730987468 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\main.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"VentaDetalle.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+	"menu.h"
+
+1732045277 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\menu.h
+
+1733290216 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\menu.cpp
+	<iostream>
+	<limits>
+	"rlutil.h"
+	"funcionesVentas.h"
+	"funcionesClientes.h"
+	"funcionesVendedores.h"
+	"funcionesProductos.h"
+	"menu.h"
+
+1730937638 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1733289234 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\producto.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1730987378 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\vendedor.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1733122941 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\ventacabecera.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<ctime>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaCabecera.h"
+
+1733123202 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\ventadetalle.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+
+1733230072 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v29\persona.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+	"ArchivoClientes.h"
+
+1733852305 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\archivoclientes.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+	"ArchivoClientes.h"
+
+1730863320 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\fecha.h
+
+1729174836 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\direccion.h
+
+1730680464 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\persona.h
+
+1730679154 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\vendedor.h
+
+1729819694 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\cliente.h
+
+1733864130 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\constantes.h
+
+1729409842 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\archivovendedores.h
+
+1729038170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\archivoclientes.h
+
+1733290415 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1730155170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\producto.h
+
+1730243876 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\archivoproductos.h
+
+1733852349 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\archivovendedores.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+
+1733852182 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\archivoventacabecera.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<limits>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+
+1730151436 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\ventacabecera.h
+
+1730155130 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\ventadetalle.h
+
+1731004012 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\archivoventadetalle.h
+
+1731004006 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\archivoventacabecera.h
+
+1733852898 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\archivoventadetalle.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+
+1733022717 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\cliente.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1733230072 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\direccion.cpp
+	<iostream>
+	<cstring>
+	<limits>
+	"Direccion.h"
+
+1733213936 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\fecha.cpp
+	<iostream>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+
+1733853201 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\funcionesclientes.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"funcionesClientes.h"
+
+1732045445 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\funcionesclientes.h
+
+1733290374 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\funcionesproductos.cpp
+	<iostream>
+	<iomanip>
+	<limits>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"funcionesProductos.h"
+
+1732766585 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\funcionesproductos.h
+
+1733853302 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\funcionesvendedores.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+	"funcionesVendedores.h"
+
+1732045604 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\funcionesvendedores.h
+
+1733132401 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\funcionesventas.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	<limits>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+	"funcionesVentas.h"
+
+1732766588 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\funcionesventas.h
+
+1730987468 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\main.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"VentaDetalle.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+	"menu.h"
+
+1733864505 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\menu.h
+
+1733868316 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\menu.cpp
+	<iostream>
+	<limits>
+	"rlutil.h"
+	"funcionesVentas.h"
+	"funcionesClientes.h"
+	"funcionesVendedores.h"
+	"funcionesProductos.h"
+	"constantes.h"
+	"menu.h"
+
+1730937638 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1733852898 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\persona.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+	"ArchivoClientes.h"
+
+1733289234 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\producto.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1733301416 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\vendedor.cpp
+	<iostream>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1733122941 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\ventacabecera.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<ctime>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaCabecera.h"
+
+1733852898 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30\ventadetalle.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+
+1733883851 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\archivoclientes.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+	"ArchivoClientes.h"
+
+1730863320 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\fecha.h
+
+1729174836 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\direccion.h
+
+1730680464 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\persona.h
+
+1730679154 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\vendedor.h
+
+1729819694 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\cliente.h
+
+1733864130 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\constantes.h
+
+1729409842 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\archivovendedores.h
+
+1729038170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\archivoclientes.h
+
+1733883810 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\archivoproductos.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1730155170 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\producto.h
+
+1730243876 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\archivoproductos.h
+
+1733883888 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\archivovendedores.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+
+1733883581 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\archivoventacabecera.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<limits>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+
+1730151436 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\ventacabecera.h
+
+1730155130 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\ventadetalle.h
+
+1731004012 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\archivoventadetalle.h
+
+1731004006 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\archivoventacabecera.h
+
+1733883142 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\archivoventadetalle.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+
+1733022717 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\cliente.cpp
+	<iostream>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+
+1733230072 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\direccion.cpp
+	<iostream>
+	<cstring>
+	<limits>
+	"Direccion.h"
+
+1733213936 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\fecha.cpp
+	<iostream>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+
+1733853201 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\funcionesclientes.cpp
+	<iostream>
+	<ctime>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"funcionesClientes.h"
+
+1732045445 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\funcionesclientes.h
+
+1733290374 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\funcionesproductos.cpp
+	<iostream>
+	<iomanip>
+	<limits>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"funcionesProductos.h"
+
+1732766585 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\funcionesproductos.h
+
+1733853302 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\funcionesvendedores.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+	"funcionesVendedores.h"
+
+1732045604 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\funcionesvendedores.h
+
+1733890407 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\funcionesventas.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	<limits>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+	"funcionesVentas.h"
+
+1732766588 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\funcionesventas.h
+
+1730987468 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\main.cpp
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"Cliente.h"
+	"Producto.h"
+	"VentaDetalle.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaDetalle.h"
+	"ArchivoVentaCabecera.h"
+	"menu.h"
+
+1733872503 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\menu.h
+
+1733852898 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\persona.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+	"ArchivoClientes.h"
+
+1733289234 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\producto.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Producto.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+
+1733301416 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\vendedor.cpp
+	<iostream>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Vendedor.h"
+	"constantes.h"
+	"ArchivoVendedores.h"
+
+1733122941 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\ventacabecera.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<ctime>
+	<limits>
+	"Fecha.h"
+	"Direccion.h"
+	"Persona.h"
+	"Cliente.h"
+	"Vendedor.h"
+	"VentaCabecera.h"
+	"constantes.h"
+	"ArchivoClientes.h"
+	"ArchivoVendedores.h"
+	"ArchivoVentaCabecera.h"
+
+1733852898 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\ventadetalle.cpp
+	<iostream>
+	<cstring>
+	<iomanip>
+	<limits>
+	"Fecha.h"
+	"Producto.h"
+	"VentaCabecera.h"
+	"VentaDetalle.h"
+	"constantes.h"
+	"ArchivoProductos.h"
+	"ArchivoVentaCabecera.h"
+	"ArchivoVentaDetalle.h"
+
+1730937638 c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1733891135 source:c:\users\lucas\documents\tup\2c\programación ii\tp integrador\versiones\final\versiones\proyectoinventariotiendaropa-v30(rlutil)\menu.cpp
+	<iostream>
+	<limits>
+	"rlutil.h"
+	"funcionesVentas.h"
+	"funcionesClientes.h"
+	"funcionesVendedores.h"
+	"funcionesProductos.h"
+	"constantes.h"
+	"menu.h"
+
